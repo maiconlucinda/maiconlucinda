@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Maicon Lucinda
+### Security Cloud Engineer | Problem Solver | Backend Enthusiast
 
-<!--
-**maiconlucinda/maiconlucinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- I'm a Security Cloud Engineer with a passion for code.
+- My primary language is **Python**.
+- Currently focused on enhancing my problem-solving skills and diving deeper into Security and Cloud.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,flask,postgres,mongo" alt="Python, Flask">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/maiconlucinda/)
