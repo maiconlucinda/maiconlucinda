@@ -2,8 +2,9 @@
 ### Security Cloud Engineer | Problem Solver | Backend Enthusiast
 
 ## 🧑‍💻 About Me
-- I'm a Security Cloud Engineer with a passion for code.
-- My primary language is **Python**.
+- I'm a Security Cloud Engineer with a passion for Coding, Networking, Security and Cloud.
+- Networking Protocols: **OSPF**, **BGP**, **Spanning Tree**...
+- My primary language is **Python**
 - Currently focused on enhancing my problem-solving skills and diving deeper into Security and Cloud.
 
 ## 🛠️ Tech Stack
