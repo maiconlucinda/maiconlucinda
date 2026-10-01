@@ -37,6 +37,12 @@ the automation and the checks I would rather run than assume.
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,cloudflare" alt="AWS, Terraform, Ansible, Cloudflare">
 
+**Problem Solving**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-306998?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-1F6FEB?style=for-the-badge)
+
 **Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
